@@ -15,7 +15,9 @@ Gostou da ideia?
 * [Dia 02 - Loading animado](#day02)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
-## Desafio dia 02 - Loading animado <a name="day02"></a>
 
 ![Redes sociais em camadas](./Projects/Day1/social-media-sheets.gif)
+
+## Desafio dia 02 - Loading animado <a name="day02"></a>
+
 ![Loading animado](./Projects/Day2/spinner.gif)
