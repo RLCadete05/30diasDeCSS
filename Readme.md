@@ -11,11 +11,14 @@
 Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar
 
-* [Dia 01 - Ícone de mídia social em camadas](#day01)
+* [Dia 01 - Ícones de redes sociais em camadas](#day01)
 * [Dia 02 - Loading animado](#day02)
+* [Dia 03 - Efeito banner com mudança de cor do texto](#day03)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
-## Desafio dia 02 - Loading animado <a name="day02"></a>
-
-![Redes sociais em camadas](./Projects/Day1/social-media-sheets.gif)
+![Ícones de redes sociais em camadas](./Projects/Day1/social-media-sheets.gif)
+## Desafio dia 02 - Loading animado <a name="day02"></a> 
 ![Loading animado](./Projects/Day2/spinner.gif)
+## Desafio dia 03 - Efeito banner com mudança de cor do texto <a name="day03"></a>
+![Efeito banner com mudança de cor do texto](./Projects/Day3/catBlack.gif)
+
