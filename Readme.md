@@ -14,6 +14,7 @@ Gostou da ideia?
 * [Dia 01 - Ícones de redes sociais em camadas](#day01)
 * [Dia 02 - Loading animado](#day02)
 * [Dia 03 - Efeito banner com mudança de cor do texto](#day03)
+* [Dia 04 - Efeito banner com mudança de cor do texto](#day04)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
 ![Ícones de redes sociais em camadas](./Projects/Day1/social-media-sheets.gif)
@@ -21,4 +22,7 @@ Gostou da ideia?
 ![Loading animado](./Projects/Day2/spinner.gif)
 ## Desafio dia 03 - Efeito banner com mudança de cor do texto <a name="day03"></a>
 ![Efeito banner com mudança de cor do texto](./Projects/Day3/catBlack.gif)
+![Loading animado](./Projects/Day2/spinner.gif)
+## Desafio dia 04 - Botão com borda animada <a name="day04"></a>
+![Botão com borda animada](./Projects/Day4/Hover.gif)
 
