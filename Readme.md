@@ -27,7 +27,7 @@ Gostou da ideia?
 ## Desafio dia 04 - Botão com borda animada <a name="day04"></a>
 ![Botão com borda animada](./Projects/Day4/Hover.gif)
 ## Desafio dia 05 - Botão com efeito pulse <a name="day05"></a>
-![Botão com borda animada](./Projects/Day4/day5.gif)
+![Botão com borda animada](./Projects/Day5/day5.gif)
 ## Desafio dia 06 - Texto com efeito líquido <a name="day06"></a>
-![Botão com borda animada](./Projects/Day4/day6.gif)
+![Botão com borda animada](./Projects/Day6/day6.gif)
 
