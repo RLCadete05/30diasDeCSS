@@ -14,7 +14,7 @@ Gostou da ideia?
 * [Dia 01 - Ícones de redes sociais em camadas](#day01)
 * [Dia 02 - Loading animado](#day02)
 * [Dia 03 - Efeito banner com mudança de cor do texto](#day03)
-* [Dia 04 - Efeito banner com mudança de cor do texto](#day04)
+* [Dia 04 - Botão com borda animada](#day04)
 * [Dia 05 - Botão com efeito pulse](#day05)
 * [Dia 06 - Texto com efeito líquido](#day06)
 
