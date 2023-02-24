@@ -17,6 +17,10 @@ Gostou da ideia?
 * [Dia 04 - Botão com borda animada](#day04)
 * [Dia 05 - Botão com efeito pulse](#day05)
 * [Dia 06 - Texto com efeito líquido](#day06)
+* [Dia 07 - Ícone para menu hamburguer](#day07)
+* [Dia 08 - Relógio utilizando neomorfismo](#day08)
+* [Dia 09 - Menu bubble](#day09)
+* [Dia 10 - Pêndulo de Newton](#day10)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
 ![Ícones de redes sociais em camadas](./Projects/Day1/social-media-sheets.gif)
@@ -27,7 +31,15 @@ Gostou da ideia?
 ## Desafio dia 04 - Botão com borda animada <a name="day04"></a>
 ![Botão com borda animada](./Projects/Day4/Hover.gif)
 ## Desafio dia 05 - Botão com efeito pulse <a name="day05"></a>
-![Botão com borda animada](./Projects/Day5/day5.gif)
+![Botão com efeito pulse](./Projects/Day5/day5.gif)
 ## Desafio dia 06 - Texto com efeito líquido <a name="day06"></a>
-![Botão com borda animada](./Projects/Day6/day6.gif)
+![Texto com efeito líquido](./Projects/Day6/day6.gif)
+## Desafio dia 07 - Ícone para menu hamburguer <a name="day07"></a>
+![Ícone para menu hamburguer](./Projects/Day7/day7.gif)
+## Desafio dia 08 - Relógio utilizando neomorfismo <a name="day08"></a>
+![Relógio utilizando neomorfismo](./Projects/Day8/day8.gif)
+## Desafio dia 09 - Menu bubble <a name="day09"></a>
+![Menu bubble](./Projects/Day9/day9.gif)
+## Desafio dia 10 - Pêndulo de Newton <a name="day10"></a>
+![Pêndulo de Newton](./Projects/Day10/day10.gif)
 
