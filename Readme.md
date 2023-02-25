@@ -21,6 +21,9 @@ Gostou da ideia?
 * [Dia 08 - Relógio utilizando neomorfismo](#day08)
 * [Dia 09 - Menu bubble](#day09)
 * [Dia 10 - Pêndulo de Newton](#day10)
+* [Dia 11 - Botão com efeito hover](#day11)
+* [Dia 12 - Sistema solar](#day12)
+* [Dia 13 - Botão On/Off](#day13)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
 ![Ícones de redes sociais em camadas](./Projects/Day1/social-media-sheets.gif)
@@ -42,4 +45,10 @@ Gostou da ideia?
 ![Menu bubble](./Projects/Day9/day9.gif)
 ## Desafio dia 10 - Pêndulo de Newton <a name="day10"></a>
 ![Pêndulo de Newton](./Projects/Day10/day10.gif)
+## Desafio dia 11 - Botão com efeito hover <a name="day11"></a>
+![Botão com efeito hover](./Projects/Day11/day11.gif)
+## Desafio dia 12 - Sistema solar <a name="day12"></a>
+![Sistema solar](./Projects/Day12/day12.gif)
+## Desafio dia 13 - Botão On/Off <a name="day13"></a>
+![Botão On/Off](./Projects/Day13/day13.gif)
 
