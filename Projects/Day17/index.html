@@ -3,50 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
     <title>Dia 17</title>
 </head>
 <body>
-    <ul>
-        <li>
-            <label>
-                <input type="checkbox" name="">
-                <div class="icon"><i class="fa fa-camera-retro" aria-hidden="true"></i></div>
-            </label>
-        </li>
-        
-        <li>
-            <label>
-                <input type="checkbox" name="">
-                <div class="icon"><i class="fa fa-diamond" aria-hidden="true"></i>
+    <main class="wrapper">
+        <div class="polaroid-wrapper">
+            <label for="takephoto" class="take-photo"></label>
+            <input class="take-photo-button" type="checkbox" id="takephoto">
+            <div class="photo">
+                <div class="picture"></div>
+            </div>
+            <div class="polaroid">
+                <div class="polaroid-lens">
+                    <div class="polaroid-lens__first">
+                        <div class="polaroid-lens__second">
+                            <div class="shine"></div>
+                        </div>
+                    </div>
                 </div>
-            </label>
-        </li>
-        
-        <li>
-            <label>
-                <input type="checkbox" name="">
-                <div class="icon"><i class="fa fa-play" aria-hidden="true"></i>
+                <div class="rainbow">
+                    <div class="color"></div>
+                    <div class="color"></div>
+                    <div class="color"></div>
+                    <div class="color"></div>
+                    <div class="color"></div>
                 </div>
-            </label>
-        </li>
-        
-        <li>
-            <label>
-                <input type="checkbox" name="">
-                <div class="icon"><i class="fa fa-cloud" aria-hidden="true"></i>
+                <div class="photo-indicator"></div>
+                <div class="flash">
+                    <div class="flash-light"></div>
                 </div>
-            </label>
-        </li>
-        
-        <li>
-            <label>
-                <input type="checkbox" name="">
-                <div class="icon"><i class="fa fa-heart" aria-hidden="true"></i>
-                </div>
-            </label>
-        </li>
-    </ul>
+            </div>
+        </div>
+    </main>
 </body>
 </html>

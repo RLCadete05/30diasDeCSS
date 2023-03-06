@@ -24,9 +24,13 @@ Gostou da ideia?
 * [Dia 11 - Botão com efeito hover](#day11)
 * [Dia 12 - Sistema solar](#day12)
 * [Dia 13 - Botão On/Off](#day13)
+* [Dia 14 - Indicador de chat](#day14)
+* [Dia 15 - Loading animado](#day15)
+* [Dia 16 - Checkbox animado](#day16)
+* [Dia 17 - Polaroid](#day17)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
-![Ícones de redes sociais em camadas](./Projects/Day1/social-media-sheets.gif)
+![Ícones de redes sociais em camadas](./Projects/Day1/day1.gif)
 ## Desafio dia 02 - Loading animado <a name="day02"></a> 
 ![Loading animado](./Projects/Day2/spinner.gif)
 ## Desafio dia 03 - Efeito banner com mudança de cor do texto <a name="day03"></a>
@@ -51,4 +55,12 @@ Gostou da ideia?
 ![Sistema solar](./Projects/Day12/day12.gif)
 ## Desafio dia 13 - Botão On/Off <a name="day13"></a>
 ![Botão On/Off](./Projects/Day13/day13.gif)
+## Desafio dia 14 - Indicador de chat (digitando...) <a name="day14"></a>
+![Indicador de chat](./Projects/Day14/day14.gif)
+## Desafio dia 15 - Loading animado <a name="day15"></a>
+![Loading animado](./Projects/Day15/day15.gif)
+## Desafio dia 16 - Checkbox animado <a name="day16"></a>
+![checkbox animado](./Projects/Day16/day16.gif)
+## Desafio dia 17 - Polaroid <a name="day17"></a>
+![Polaroid](./Projects/Day17/day17.gif)
 
