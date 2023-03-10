@@ -29,9 +29,10 @@ Gostou da ideia?
 * [Dia 16 - Checkbox animado](#day16)
 * [Dia 17 - Polaroid](#day17)
 * [Dia 18 - Ícones com efeito](#day18)
-* [Dia 19 - Linear-gradient animado](#day19)* [Dia 17 - Polaroid](#day17)
-* [Dia 17 - Polaroid](#day17)
-* [Dia 17 - Polaroid](#day17)
+* [Dia 19 - Linear-gradient animado](#day19)
+* [Dia 20 - Máquina dde café](#day20)
+* [Dia 21 - Astronauta](#day21)
+* [Dia 22 - Globo de neve](#day22)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
 ![Ícones de redes sociais em camadas](./Projects/Day1/day1.gif)
@@ -71,4 +72,10 @@ Gostou da ideia?
 ![Ícones com efeito](./Projects/Day18/day18.gif)
 ## Desafio dia 19 - Linear-gradient animado <a name="day19"></a>
 ![Linear-gradient animado](./Projects/Day19/day19.gif)
+## Desafio dia 20 - Máquina dde café <a name="day20"></a>
+![Máquina dde café](./Projects/Day20/day20.gif)
+## Desafio dia 21 - Astronauta <a name="day21"></a>
+![Astronauta](./Projects/Day21/day21.gif)
+## Desafio dia 22 - Globo de neve <a name="day22"></a>
+![Globo de neve](./Projects/Day22/day22.gif)
 
