@@ -28,6 +28,10 @@ Gostou da ideia?
 * [Dia 15 - Loading animado](#day15)
 * [Dia 16 - Checkbox animado](#day16)
 * [Dia 17 - Polaroid](#day17)
+* [Dia 18 - Ícones com efeito](#day18)
+* [Dia 19 - Linear-gradient animado](#day19)* [Dia 17 - Polaroid](#day17)
+* [Dia 17 - Polaroid](#day17)
+* [Dia 17 - Polaroid](#day17)
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
 ![Ícones de redes sociais em camadas](./Projects/Day1/day1.gif)
@@ -63,4 +67,8 @@ Gostou da ideia?
 ![checkbox animado](./Projects/Day16/day16.gif)
 ## Desafio dia 17 - Polaroid <a name="day17"></a>
 ![Polaroid](./Projects/Day17/day17.gif)
+## Desafio dia 18 - Ícones com efeito <a name="day18"></a>
+![Ícones com efeito](./Projects/Day18/day18.gif)
+## Desafio dia 19 - Linear-gradient animado <a name="day19"></a>
+![Linear-gradient animado](./Projects/Day19/day19.gif)
 
